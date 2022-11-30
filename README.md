@@ -27,7 +27,7 @@ You can create the following extra directories, some of which have special behav
 Following [ESlint rules](https://eslint.org/docs/latest/rules/)
 
 ## Framework & UI Framework
-Vue3.js + Nuxt.js + Vite + Element UI
+Vue3.js + Nuxt.js + Vite + Element UI + TailwindCSS
 
 ### `assets`
 

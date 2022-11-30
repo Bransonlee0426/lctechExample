@@ -26,6 +26,9 @@ You can create the following extra directories, some of which have special behav
 ## Coding style
 Following [ESlint rules](https://eslint.org/docs/latest/rules/)
 
+## Framework & UI Framework
+Vue3.js + Nuxt.js + Vite + Element UI
+
 ### `assets`
 
 The assets directory contains your uncompiled assets such as Stylus or Sass files, images, or fonts.
